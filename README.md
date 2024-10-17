@@ -1,3 +1,2 @@
-# experimental
-Place to hold my experimental code files as I learn how to connect my personal GitHub to VSCode as well as learning SQL, C# and C++
-
+# tumor_detection_experiments
+Using image processing techniques to identify brain tumors from data taken from Kaggle - https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation/data
